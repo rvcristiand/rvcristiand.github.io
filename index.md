@@ -4,8 +4,6 @@
 
 In this Webpage you can find all my personal projects
 
-# 
-
 ## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
