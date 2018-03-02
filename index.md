@@ -10,6 +10,10 @@ En este vídeo presento el resultado de correr una Macro de Excel ([VBA](https:/
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/jcjDSDG5ffg/0.jpg)](http://www.youtube.com/watch?v=jcjDSDG5ffg "estribo3d")
 
+## pdftoExcel
+
+En este vídeo presento el resultado de correr un script de [python](http://python.org) para convertir archivos [pdf](https://en.wikipedia.org/wiki/PDF/A) usando el [API](https://en.wikipedia.org/wiki/Application_programming_interface) de [Adobe Acrobat](https://www.adobe.com/devnet/acrobat.html).
+
 ## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
