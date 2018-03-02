@@ -8,7 +8,7 @@ In this Webpage you can find all my personal projects
 
 En este vídeo presento el resultado de correr una Macro de Excel ([VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications)), que genera un estribo ([3DSolid](http://help.autodesk.com/view/ACD/2018/ENU/?guid=GUID-4EC0355F-A91B-4ADA-A346-05CCCD22259B#GUID-4EC0355F-A91B-4ADA-A346-05CCCD22259B)) en AutoCAD.
 
-[![estribo3d](estribo3d.jpg)(http://img.youtube.com/vi/watch?v=jcjDSDG5ffg/0.jpg)](http://www.youtube.com/watch?v=jcjDSDG5ffg)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/jcjDSDG5ffg/0.jpg)](http://www.youtube.com/watch?v=jcjDSDG5ffg "estribo3d")
 
 ## Markdown
 
