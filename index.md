@@ -1,8 +1,8 @@
-## Welcome to my personal WebPage
+# Welcome to my personal WebPage
 
 In this Webpage you can find all my personal projects
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -26,11 +26,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rvcristiand/rvcristiand.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### About me
+## About me
 I am a Civil Engineer of [Universidad Nacional de Colombia](http://unal.edu.co) and student of Master in Structures at same University.
 
 I love programming Civil Engineering stuff.
