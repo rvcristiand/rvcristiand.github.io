@@ -14,33 +14,7 @@ En este vídeo presento el resultado de correr una Macro de Excel ([VBA](https:/
 
 En este vídeo presento el resultado de correr un script de [python](http://python.org) para convertir archivos [pdf](https://en.wikipedia.org/wiki/PDF/A) usando el [API](https://en.wikipedia.org/wiki/Application_programming_interface) de [Adobe Acrobat](https://www.adobe.com/devnet/acrobat.html).
 
-## Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rvcristiand/rvcristiand.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Wtsec9EjnCY&t/0.jpg)](http://www.youtube.com/watch?v=Wtsec9EjnCY&t "pdftoExcel")
 
 ## About me
 I am a Civil Engineer of [Universidad Nacional de Colombia](http://unal.edu.co) and student of Master in Structures at same University.
