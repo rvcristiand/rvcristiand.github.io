@@ -32,4 +32,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### About me
 
-I am a Civil Engineer at [Universidad Nacional de Colombia](unal.edu.co) and student 
+I am a Civil Engineer at [Universidad Nacional de Colombia](https://unal.edu.co) and student 
