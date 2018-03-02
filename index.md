@@ -35,7 +35,7 @@ I am a Civil Engineer of [Universidad Nacional de Colombia](http://unal.edu.co) 
 
 I love programming Civil Engineering stuff.
 
-Next you will find my social networks:
+Next you will find me in the network:
 
-1. x
-2. x
+1. GitHub: [rvcristiand](https://github.com/rvcristiand).
+2. 
