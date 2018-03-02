@@ -31,5 +31,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rvcristiand/rvcristiand.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### About me
+I am a Civil Engineer of [Universidad Nacional de Colombia](http://unal.edu.co) and student of Master in Structures at same University.
 
-I am a Civil Engineer at [Universidad Nacional de Colombia](https://unal.edu.co) and student 
+I love programming Civil Engineering stuff.
+
+Next you will find my social networks:
+
+1. x
+2. x
