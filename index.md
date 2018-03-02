@@ -14,7 +14,7 @@ En este vídeo presento el resultado de correr una Macro de Excel ([VBA](https:/
 
 En este vídeo presento el resultado de correr un script de [python](http://python.org) para convertir archivos [pdf](https://en.wikipedia.org/wiki/PDF/A) usando el [API](https://en.wikipedia.org/wiki/Application_programming_interface) de [Adobe Acrobat](https://www.adobe.com/devnet/acrobat.html).
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/Wtsec9EjnCY&t/0.jpg)](http://www.youtube.com/watch?v=Wtsec9EjnCY&t "pdftoExcel")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Wtsec9EjnCY/0.jpg)](http://www.youtube.com/watch?v=Wtsec9EjnCY "pdftoExcel")
 
 ## About me
 I am a Civil Engineer of [Universidad Nacional de Colombia](http://unal.edu.co) and student of Master in Structures at same University.
